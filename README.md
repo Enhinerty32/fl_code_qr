@@ -2,7 +2,7 @@
 
 Nuevo proyecto de creacion de codigo QR
 
-## Descripcio de objetivo de la aplicacion 
+## Descripcion de objetivo de la aplicacion 
 Lectura de codigo QR lectura de geolocalizacion y lectura de Link 
 
 -Integracion de API de Google Map 
